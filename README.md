@@ -2,7 +2,7 @@
 
 Collection of scripts written to help with my research
 
-##confint.py
+## confint.py
 
 Program to calculate estimates and confidence intervals of portions
 (uses normal approximation, Clopper-Pearson, Aggresti-Coull, Wilson score with and without continouity correction)
