@@ -18,6 +18,7 @@ Example:
 This means 32 positive cases in 48 data points, 99% conf. interval requested.
 
 See the code (or a textbook) for comments on the various methods.
+The script requires scipy to be installed in your python environment. (Type ``pip3 install scipy`` if not sure.)
 
 
 ## rasx2xy.py
